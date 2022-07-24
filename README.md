@@ -1,1 +1,1 @@
-I HATE C++
+#I HATE C++
